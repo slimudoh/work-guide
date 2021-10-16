@@ -8,3 +8,7 @@ frontend
 - Set up repo
 - Set up CI/CD
 - Setup port
+
+
+testing
+- lighthouse
